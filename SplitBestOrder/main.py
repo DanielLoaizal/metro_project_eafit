@@ -14,6 +14,6 @@ df['item_values'] = df.apply(extract_item_values, axis=1)
 df['p'] = df['item_values'].apply(lambda x : x[0])
 df['d'] = df['item_values'].apply(lambda x : x[1])
 df['q'] = df['item_values'].apply(lambda x : x[2])
-df = df[['Linea', 'Horas', 'pvalue', 'best_aic', 'best_order', 'r2', 'mse', 'p', 'd', 'q']]
+df = df[['Linea', 'Horas', 'pvalue', 'best_aic', 'r2', 'mse', 'p', 'd', 'q']]
 
 send_to_output_table(df, table="ScoresV2")

@@ -1,0 +1,6 @@
+holidays-co==1.0.0
+matplotlib
+seaborn
+scipy
+networkx
+statsmodels

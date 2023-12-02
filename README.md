@@ -2,8 +2,8 @@
 ## <p align="center">Proyecto Integrador</p>
 
 ### <p align="center">Autores:</p>
-<p align="center">Daniel Loaiza López</p>
 <p align="center">Sebastian Carvalho Salazar</p>
+<p align="center">Daniel Loaiza López</p>
 <p align="center">Sebastian Ramirez Escobar</p>
 <p align="center">Javier Gonzalez Alvarez</p>
 <p align="center">Asmec Duvan Urrea Uribe</p>

@@ -8,4 +8,4 @@
 <p align="center">Javier Gonzalez Alvarez</p>
 <p align="center">Asmec Duvan Urrea Uribe</p>
 
-Este es el repositorio del proyecto integrador del semestre 2023 en la Universidad EAFIT.
+<p align="center">Este es el repositorio del proyecto integrador del semestre 2023 en la Universidad EAFIT.</p>
